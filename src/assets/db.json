@@ -1,0 +1,91 @@
+{
+  "students": [
+    {
+      "sname": "saraswati",
+      "email": "saraswati@gmail.com",
+      "password": "12345",
+      "dob": "2026-09-21",
+      "contact": "1237676767",
+      "batch": "b210",
+      "fees": "10023",
+      "gender": "female",
+      "courses": [
+        "java",
+        "python",
+        "react",
+        "spring"
+      ],
+      "imageUrl": "data:image/jpeg;base64,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",
+      "address": {
+        "pincode": "411014",
+        "area": "pasan",
+        "city": "pune"
+      },
+      "id": "Pvv9GV3h5ok"
+    },
+    {
+      "sname": "Tanvi",
+      "email": "tanvi@gmail.com",
+      "password": "12345",
+      "dob": "2026-09-17",
+      "contact": "213454576",
+      "batch": "b210",
+      "fees": "100000",
+      "gender": "female",
+      "courses": [
+        "java"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0x-As6LClp9E9T4aL1YImN91mJgZ-ktoBkrlTHRlJGM0WMuxeLexBpps&s",
+      "address": {
+        "pincode": "411115",
+        "area": "aakurdi",
+        "city": "pune"
+      },
+      "id": "UCY00nxdQAI"
+    },
+    {
+      "sname": "swapnali",
+      "email": "swapnali@gmail.com",
+      "password": "12345",
+      "dob": "2026-09-11",
+      "contact": "12345676",
+      "batch": "b210",
+      "fees": "60000",
+      "gender": "female",
+      "courses": [
+        "python"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdiMu2m6LkKVLQwXq5CDKkPAaGN8qj7VT7u3hwmkzM2H2Lab2hQokiIg&s",
+      "address": {
+        "pincode": "411072",
+        "area": "Nair Hospital",
+        "city": "Mumbai"
+      },
+      "id": "kASWu5bOCSk"
+    },
+    {
+      "sname": "rutuja",
+      "email": "rutu@gmail.com",
+      "password": "12345",
+      "dob": "2026-09-30",
+      "contact": "212465767",
+      "batch": "b211",
+      "fees": "60000",
+      "gender": "female",
+      "courses": [
+        "java",
+        "python",
+        "react",
+        "spring"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOYIOmoZayoG9t5ql9qWJcfur8Je8-3zFTB1bZUNOTQ&s=10",
+      "address": {
+        "pincode": "413501",
+        "area": "pasan",
+        "city": "pune"
+      },
+      "id": "u6PvwgPB9nc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
